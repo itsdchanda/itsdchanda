@@ -1,6 +1,18 @@
 <h1 align="center">Hey there! I am Debarghya Chanda</h1>
 <h3 align="center">Learning through codes and languages.</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdchanda&label=Profile%20views&color=0e75b6&style=flat" alt="itsdchanda" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsdchanda" alt="itsdchanda" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/itsdchanda" target="blank"><img src="https://img.shields.io/twitter/follow/itsdchanda?logo=twitter&style=for-the-badge" alt="itsdchanda" /></a> </p>
+
+- 📫 How to reach me **itsme2739@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsdchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsdchanda" height="30" width="40" /></a>
