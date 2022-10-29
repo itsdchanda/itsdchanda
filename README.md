@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdchanda&label=Profile%20views&color=0e75b6&style=flat" alt="itsdchanda" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/itsdchanda" target="blank"><img src="https://img.shields.io/twitter/follow/itsdchanda?logo=twitter&style=for-the-badge" alt="itsdchanda" /></a> </p>
-
-- 📫 How to reach me **itsme2739@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -26,6 +23,9 @@
  [![@@thedarkryzen Holopin board](https://holopin.io/api/user/board?user=thedarkryzen)](https://holopin.io/@thedarkryzen)
 
 
+<p align="left"> <a href="https://twitter.com/itsdchanda" target="blank"><img src="https://img.shields.io/twitter/follow/itsdchanda?logo=twitter&style=for-the-badge" alt="itsdchanda" /></a> </p>
+
+- 📫 How to reach me **itsme2739@gmail.com**
 ![](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdchanda&" alt="itsdchanda" /></p>
