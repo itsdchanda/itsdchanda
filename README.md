@@ -6,9 +6,6 @@
 
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsdchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsdchanda" height="30" width="40" /></a>
@@ -23,11 +20,6 @@
  [![@@thedarkryzen Holopin board](https://holopin.io/api/user/board?user=thedarkryzen)](https://holopin.io/@thedarkryzen)
 
 
-<p align="left"> <a href="https://twitter.com/itsdchanda" target="blank"><img src="https://img.shields.io/twitter/follow/itsdchanda?logo=twitter&style=for-the-badge" alt="itsdchanda" /></a> </p>
-
-- 📫 How to reach me **itsme2739@gmail.com**
-![](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdchanda&" alt="itsdchanda" /></p>
 
 
@@ -36,3 +28,8 @@
 
 
 
+
+<p align="left"> <a href="https://twitter.com/itsdchanda" target="blank"><img src="https://img.shields.io/twitter/follow/itsdchanda?logo=twitter&style=for-the-badge" alt="itsdchanda" /></a> </p>
+
+- 📫 How to reach me **itsme2739@gmail.com**
+![](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
