@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Debarghya Chanda</h1>
-<h3 align="center">An ethusiastic developer from India</h3>
+<h1 align="center">Hey there! I am Debarghya Chanda</h1>
+<h3 align="center">Learning through codes and languages.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,3 +16,10 @@
 
 
 ![](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdchanda&show_icons=true&locale=en&layout=compact" alt="itsdchanda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsdchanda&show_icons=true&locale=en" alt="itsdchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdchanda&" alt="itsdchanda" /></p>
+
