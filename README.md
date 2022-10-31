@@ -1,28 +1,63 @@
-<h1 align="center">Hey there! I am Debarghya Chanda</h1>
-<h3 align="center">Learning through codes and languages.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdchanda&label=Profile%20views&color=0e75b6&style=flat" alt="itsdchanda" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itsdchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsdchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debarghya03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debarghya03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/itsdchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsdchanda" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/itsdchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsdchanda" height="30" width="40" /></a>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hello+there!;Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Undergrad" /></a>
+</p>
 
-[![@@thedarkryzen Holopin board](https://holopin.io/api/user/board?user=thedarkryzen)](https://holopin.io/@thedarkryzen)
+   <a href="https://www.linkedin.com/in/debarghya03/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+   <a href="https://stackoverflow.com/users/19224723/debarghya-chanda" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>    
+ <a href="https://www.hackerrank.com/itsdchanda" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdchanda&show_icons=true&locale=en&layout=compact" alt="itsdchanda" /></p>
+![@@thedarkryzen Holopin board](https://holopin.io/api/user/board?user=thedarkryzen)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdchanda&theme=radical&show_icons=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdchanda&" alt="itsdchanda" /></p>
+- 👋 Hi, I’m Debarghya.
+- 💼 I'm a Computer Science Undergrad currently in my 2nd Year.
+- 💬 Learning through codes and languages.
+- 👯 I’m looking forward for more software engineering projects.
 
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href="https://www.java.com" target="_blank">
 
-<p align="left"> <a href="https://twitter.com/itsdchanda" target="blank"><img src="https://img.shields.io/twitter/follow/itsdchanda?logo=twitter&style=for-the-badge" alt="itsdchanda" /></a> </p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 📫 How to reach me **itsme2739@gmail.com**
-  ![](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Debarghya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsdchanda&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdchanda&show_icons=true&locale=en&layout=compact&theme=algolia" alt="itsdchanda" height="192px"/>
+  <br/>
+  
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/itsdchanda"><img alt="itsdchandaActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsdchanda&custom_title=itsdchanda%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+[
+
+![](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
