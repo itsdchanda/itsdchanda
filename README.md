@@ -16,9 +16,11 @@
 
 [![@@thedarkryzen Holopin board](https://holopin.io/api/user/board?user=thedarkryzen)](https://holopin.io/@thedarkryzen)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdchanda&show_icons=true&locale=en&layout=compact" alt="itsdchanda" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdchanda&theme=radical&show_icons=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdchanda&" alt="itsdchanda" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdchanda&show_icons=true&locale=en&layout=compact" alt="itsdchanda" /></p>
 
 <p align="left"> <a href="https://twitter.com/itsdchanda" target="blank"><img src="https://img.shields.io/twitter/follow/itsdchanda?logo=twitter&style=for-the-badge" alt="itsdchanda" /></a> </p>
 
