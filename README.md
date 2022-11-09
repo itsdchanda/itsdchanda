@@ -40,7 +40,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-  <h2> Github Stats (Expand to View) <img
+  <h2> Github Stats <img
       src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px> </h2>
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
