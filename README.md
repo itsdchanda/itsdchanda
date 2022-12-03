@@ -57,11 +57,3 @@
     <br />
 
   </p>
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br />
-  <a href="https://github.com/itsdchanda"><img alt="itsdchandaActivity Graph"
-      src="https://activity-graph.herokuapp.com/graph?username=itsdchanda&custom_title=itsdchanda%20Contribution%20Graph&theme=react-dark" /></a>
-  <br />
-
-  <br />
