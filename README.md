@@ -8,30 +8,27 @@
       src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hello+there!;Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Undergrad" /></a>
 </p>
 
-<a href="https://www.linkedin.com/in/debarghya03/" target="_blank">
-  <img alt="LinkedIn"
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://stackoverflow.com/users/19224723/debarghya-chanda" target="_blank">
-  <img alt="Stack Overflow"
-    src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</a>
-<a href="https://www.hackerrank.com/itsdchanda" target="_blank">
-  <img alt="HackerRank"
-    src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</a>
-
 ![@@thedarkryzen Holopin board](https://holopin.io/api/user/board?user=thedarkryzen)
 
-- 👋 Hi, I’m Debarghya.
-- 💼 I'm a Computer Science Undergrad currently in my 2nd Year.
-- 💬 Learning through codes and languages.
-- 👯 I’m looking forward for more software engineering projects.
+👋 Hi, I’m Debarghya.
+💼 I'm a Computer Science Undergrad currently in my 2nd Year.
+💬 Learning through codes and languages.
+👯 I’m looking forward for more software engineering projects.
+💻 Currently working as a Campus Ambassador at HackerEarth, where I get to share my love for technology and help fellow students to explore and enhance their skills in the world of programming.
+🚀 I'm always eager to learn new things and challenge myself to become a better developer, and I believe that continuous learning is the key to success in this ever-evolving field.
+
+<h2> Socials <img
+    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+    width=32px> </h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya03/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19224723/debarghya-chanda)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/itsdchanda)
+
 
 <h2> Skills <img
     src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
     width=32px> </h2>
-<a href="https://www.java.com" target="_blank">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -43,17 +40,15 @@
   <h2> Github Stats <img
       src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px> </h2>
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br />
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Debarghya's Github Stats"
-        src="https://github-readme-stats.vercel.app/api?username=itsdchanda&show_icons=true&count_private=true&theme=algolia"
-        height="192px" /></a>
-    <br />
-    &nbsp;
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdchanda&show_icons=true&locale=en&layout=compact&theme=algolia"
-      alt="itsdchanda" height="192px" />
-    <br />
-
-  </p>
+<p align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Debarghya's Github Stats"
+          src="https://github-readme-stats.vercel.app/api?username=itsdchanda&show_icons=true&count_private=true&theme=algolia"
+          height="192px" /></a>
+      &nbsp;
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdchanda&show_icons=true&locale=en&layout=compact&theme=algolia"
+        alt="itsdchanda" height="192px" />
+      <br />
+    </p>
+  </div>
+</div>
