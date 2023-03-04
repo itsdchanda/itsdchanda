@@ -1,12 +1,11 @@
-<h1> Hello Fellow < Developers/>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-      width=30px> </h1>
-<p align='center'>
+<p align="center">
+  
+  <h1 align="center"> Hello Fellow <code>Developers </code>!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 </p>
-
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
-      src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hello+there!;Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Undergrad" /></a>
-</p>
+<p style=" color: #00FF00; text-align: center;">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=terminus&color=00FF00&size=24&center=true&width=500&height=60&lines=01010111+01100101+01101100+01100011+01101111+01101101+01100101+00101100+01110100+01101111+00100000+01101101+01111001+00101100+01000111+01001000+01010101+01000010+00100000+01010000+01110010+01101111+01100110+01101001+01101100+01100101+00100001">
+  </a>
 
 ![@@thedarkryzen Holopin board](https://holopin.io/api/user/board?user=thedarkryzen)
 
