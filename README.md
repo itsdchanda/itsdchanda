@@ -10,12 +10,12 @@
 
 ![@@thedarkryzen Holopin board](https://holopin.io/api/user/board?user=thedarkryzen)
 
-👋 Hi, I’m Debarghya.
-💼 I'm a Computer Science Undergrad currently in my 2nd Year.
-💬 Learning through codes and languages.
-👯 I’m looking forward for more software engineering projects.
-💻 Currently working as a Campus Ambassador at HackerEarth, where I get to share my love for technology and help fellow students to explore and enhance their skills in the world of programming.
-🚀 I'm always eager to learn new things and challenge myself to become a better developer, and I believe that continuous learning is the key to success in this ever-evolving field.
+- 👋 Hi, I’m Debarghya.
+- 💼 I'm a Computer Science Undergrad currently in my 2nd Year.
+- 💬 Learning through codes and languages.
+- 👯 I’m looking forward for more software engineering projects.
+- 💻 Currently working as a Campus Ambassador at HackerEarth, where I get to share my love for technology and help fellow students to explore and enhance their skills in the world of programming.
+- 🚀 I'm always eager to learn new things and challenge myself to become a better developer, and I believe that continuous learning is the key to success in this ever-evolving field.
 
 <h2> Socials <img
     src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
