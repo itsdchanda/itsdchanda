@@ -1,6 +1,6 @@
 <p align="center">
   
-  <h1 align="center"> Hello Fellow <code>Developers </code>!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1 align="center"> Hello Fellow <code>Developers</code>!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 </p>
 <p style=" color: #00FF00; text-align: center;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -40,14 +40,14 @@
       src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px> </h2>
 
 <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Debarghya's Github Stats"
-          src="https://github-readme-stats.vercel.app/api?username=itsdchanda&show_icons=true&count_private=true&theme=algolia"
-          height="192px" /></a>
-      &nbsp;
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdchanda&show_icons=true&locale=en&layout=compact&theme=algolia"
-        alt="itsdchanda" height="192px" />
-      <br />
-    </p>
+  <div style="display: flex;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Debarghya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsdchanda&show_icons=true&count_private=true&theme=algolia" height="192px" />
+    </a>
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdchanda&show_icons=true&locale=en&layout=compact&theme=algolia" alt="itsdchanda" height="192px" />
+  </div>
+</p>
+
   </div>
 </div>
