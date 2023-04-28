@@ -2,52 +2,43 @@
   
   <h1 align="center"> Hello Fellow <code>Developers</code>!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 </p>
-<p style=" color: #00FF00; text-align: center;">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=terminus&color=00FF00&size=24&center=true&width=500&height=60&lines=01010111+01100101+01101100+01100011+01101111+01101101+01100101+00101100+01110100+01101111+00100000+01101101+01111001+00101100+01000111+01001000+01010101+01000010+00100000+01010000+01110010+01101111+01100110+01101001+01101100+01100101+00100001">
-  </a>
+
+[![](https://visitcount.itsvg.in/api?id=itsdchanda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![@@thedarkryzen Holopin board](https://holopin.io/api/user/board?user=thedarkryzen)
 
-- 👋 Hi, I’m Debarghya.
-- 💼 I'm a Computer Science Undergrad currently in my 2nd Year.
-- 💬 Learning through codes and languages.
-- 👯 I’m looking forward for more software engineering projects.
-- 💻 Currently working as a Campus Ambassador at HackerEarth, where I get to share my love for technology and help fellow students to explore and enhance their skills in the world of programming.
-- 🚀 I'm always eager to learn new things and challenge myself to become a better developer, and I believe that continuous learning is the key to success in this ever-evolving field.
+  # 💫 About Me:
 
-<h2> Socials <img
-    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-    width=32px> </h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya03/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19224723/debarghya-chanda)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/itsdchanda)
+👋 Hi, I’m Debarghya.
+<br>💼 I'm a Computer Science Undergrad currently in my 2nd Year.
+<br>💬 Learning through codes and languages.
+<br>👯 I’m looking forward for more software engineering projects.
+<br>💻 Currently working as a Campus Ambassador at HackerEarth.
+<br>🚀 Always eager to learn new things and challenge myself to become a better.
 
 
-<h2> Skills <img
-    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-    width=32px> </h2>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debarghya03) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsdchanda) 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <h2> Github Stats <img
-      src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px> </h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=itsdchanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsdchanda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdchanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <div style="display: flex;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Debarghya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsdchanda&show_icons=true&count_private=true&theme=algolia" height="192px" />
-    </a>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdchanda&show_icons=true&locale=en&layout=compact&theme=algolia" alt="itsdchanda" height="192px" />
-  </div>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itsdchanda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  </div>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
