@@ -31,9 +31,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsdchanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsdchanda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdchanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| <img src="https://github-readme-stats.vercel.app/api?username=itsdchanda&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsdchanda&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
+| ------------- | ------------- |
+| <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=itsdchanda&theme=github" /> | <img  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdchanda&layout=compact" /> |
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsdchanda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
