@@ -31,14 +31,14 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-| <img src="https://github-readme-stats.vercel.app/api?username=itsdchanda&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsdchanda&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=itsdchanda&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
 | ------------- | ------------- |
-| <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=itsdchanda&theme=github" /> | <img  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdchanda&layout=compact" /> |
+| <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=prakhartiwari0&theme=github" /> | <img  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdchanda&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> |
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsdchanda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=itsdchanda&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
