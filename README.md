@@ -11,7 +11,7 @@
   # 💫 About Me:
 
 👋 Hi, I’m Debarghya.
-<br>💼 I'm a Computer Science Undergrad currently in my 2nd Year.
+<br>💼 I'm a Computer Science Undergrad currently in my 4th Year.
 <br>💬 Learning through codes and languages.
 <br>👯 I’m looking forward for more software engineering projects.
 <br>💻 Currently working as a Campus Ambassador at HackerEarth.
