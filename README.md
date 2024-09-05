@@ -14,7 +14,7 @@
 <br>💼 I'm a Computer Science Undergrad currently in my 4th Year.
 <br>💬 Learning through codes and languages.
 <br>👯 I’m looking forward for more software engineering projects.
-<br>💻 Currently working as a Campus Ambassador at HackerEarth.
+<br>💻 Ex Campus Ambassador at HackerEarth.
 <br>🚀 Always eager to learn new things and challenge myself to become a better.
 
 
